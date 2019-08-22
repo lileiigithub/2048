@@ -1,0 +1,7 @@
+# vscode
+.vscode/settings.json
+
+# python
+*.pyc
+*.iml
+*.xml
